@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main()
+       {
+         printf("Å£±Æ");
+             return 0;
+}
